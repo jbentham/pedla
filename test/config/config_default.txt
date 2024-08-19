@@ -1,0 +1,1 @@
+{"unit":1, "xsamp":10000,"xrate":100000,"thresh":10,"trig_mode":0,"trig_chan":0,"probes":["probe1", "probe2", "probe3", "probe4", "probe5", "probe6", "probe7", "probe8", "probe9", "probe10", "probe11", "probe12", "probe13", "probe14", "probe15", "probe16"]}
